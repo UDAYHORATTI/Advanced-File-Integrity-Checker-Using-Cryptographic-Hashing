@@ -1,0 +1,2 @@
+# Advanced-File-Integrity-Checker-Using-Cryptographic-Hashing
+his project ensures file integrity by verifying if files have been tampered with. It uses cryptographic hash functions (e.g., SHA-256) to generate unique checksums for files. The program can:  Create a database of file hashes for a directory. Verify the current file hashes against the saved hashes. Identify tampered, deleted, or newly added files.
